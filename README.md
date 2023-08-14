@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Backened**
 
-- 👯 I’m looking to collaborate on **Frontend Projects**
+- 👯 I’m looking forward to collaborate on **Frontend Projects**
 
 - 💬 Ask me about **React.js , Redux, ReactQuery, Supabase**
 
