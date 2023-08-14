@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swatiranjangit&label=Profile%20views&color=0e75b6&style=flat" alt="swatiranjangit" /> </p>
 
-- 🔭 I’m currently working on [The Wild Oasis](https://github.com/SwatiRanjangit/The-Wild-Oasis)
+
 
 - 🌱 I’m currently learning **Backened**
 
