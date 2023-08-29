@@ -1,6 +1,6 @@
 ![logo](https://github.com/SwatiRanjangit/SwatiRanjangit/blob/main/Blue%20and%20White%20Modern%20Business%20LinkedIn%20Article%20Cover%20Image%20(1).png)
 <h1 align="center">Hi 👋, I'm Swati Ranjan</h1>
-<h3 align="center">A passionate frontend developer from India.</h3>
+<h3 align="center">A passionate Fullstack developer from India.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
