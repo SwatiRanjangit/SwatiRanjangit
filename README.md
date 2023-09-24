@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swatiranjangit&label=Profile%20views&color=0e75b6&style=flat" alt="swatiranjangit" /> </p>
 
-- 🌱 I’m currently learning **Backened**
+- 🌱 I’m currently learning **DevOps**
 
 - 👯 I’m looking to collaborate on **Fullstack Projects**
 
